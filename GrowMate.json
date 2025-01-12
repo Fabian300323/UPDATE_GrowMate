@@ -3,7 +3,7 @@
     {
       "Board": "Espressif ESP32 Dev Module",
       "Device": "CC:DB:A7:32:16:A0",
-      "Version": "2.0.0",
+      "Version": "1.0.0",
       "URL": "https://github.com/Fabian300323/UPDATE_GrowMate/img/firmware.bin"
     }
   ]
