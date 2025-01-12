@@ -5,7 +5,7 @@
       "Device": "24:6F:28:AD:FF:04",
       "Config": "4MB",
       "Version": "2.0.0",
-      "URL": "https://example.com/myimages/example.esp32_dev.v2.bin"
+      "URL": "https://github.com/Fabian300323/UPDATE_GrowMate/blob/main/imt/firmware.bin"
     }
   ]
 }
