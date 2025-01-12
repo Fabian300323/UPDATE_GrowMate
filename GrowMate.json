@@ -2,9 +2,15 @@
   "Configurations": [
     {
       "Board": "Espressif ESP32 Dev Module",
-      "Device": "CC:DB:A7:32:16:A0",
+      "Config": "4MB",
       "Version": "1.0.0",
       "URL": "https://raw.githubusercontent.com/Fabian300323/UPDATE_GrowMate/refs/heads/main/img/firmware.bin"
+    },
+    {
+      "Board": "ESP32_DEV",
+      "Config": "4MB",
+      "Version": "2.0.0",
+      "URL": "https://example.com/myimages/example.esp32_dev.4MB.v2.bin"
     }
   ]
 }
