@@ -1,5 +1,5 @@
 {
-  "type" : "esp32-fota-http",
-  "version" : "1.0.0",
-  "url" : "http://raw.githubusercontent.com/Fabian300323/UPDATE_GrowMate/refs/heads/main/fota/esp32-fota-http-2.bin"
+    "type": "esp32-fota-http",
+    "version": "1.0.0",
+    "url": "http://raw.githubusercontent.com/Fabian300323/UPDATE_GrowMate/refs/heads/main/fota/esp32-fota-http-2.bin"
 }
